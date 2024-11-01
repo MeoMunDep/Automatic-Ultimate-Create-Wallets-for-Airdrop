@@ -17,7 +17,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i colors crypto ethers tronweb tonweb @solana/web3.js @cosmjs/proto-signing @polkadot/keyring algosdk aptos @mysten/sui.js near-api-js @hashgraph/sdk xlsx
+    npm i colors crypto ethers tronweb tonweb @solana/web3.js @cosmjs/proto-signing @polkadot/keyring algosdk aptos @mysten/sui.js near-api-js @hashgraph/sdk cardano-wallet-js xlsx bs58 
    ```
 
 2. **Prepare Configuration Files:**
