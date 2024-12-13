@@ -59,6 +59,7 @@ To get started with the bot, follow these steps:
         "Scroll"
       ]
     },
+    "Bitcoin": { "count": 100 },
     "Cosmos": {
       "count": 5,
       "networks": [
