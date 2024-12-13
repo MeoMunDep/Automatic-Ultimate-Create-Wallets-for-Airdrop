@@ -26,6 +26,7 @@
         "Scroll"
       ]
     },
+    "Bitcoin": { "count": 100 },
     "Cosmos": {
       "count": 1000,
       "networks": [
