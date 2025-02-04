@@ -1,93 +1,15 @@
 {
-  "wallets": {
-    "EVM": {
-      "count": 1000,
-      "networks": [
-        "Ethereum",
-        "BSC",
-        "Polygon",
-        "Avalanche",
-        "Arbitrum",
-        "Optimism",
-        "Base",
-        "zkSync",
-        "Cronos",
-        "Celo",
-        "Fantom",
-        "Harmony",
-        "Moonbeam",
-        "Moonriver",
-        "OKC",
-        "Gnosis",
-        "Klaytn",
-        "IoTeX",
-        "Metis",
-        "Linea",
-        "Scroll"
-      ]
-    },
-    "Bitcoin": { "count": 100 },
-    "Cosmos": {
-      "count": 1000,
-      "networks": [
-        "Cosmos Hub",
-        "Osmosis",
-        "Kava",
-        "Secret Network",
-        "Akash",
-        "Juno",
-        "Evmos",
-        "Persistence",
-        "Injective",
-        "Stride",
-        "Crescent",
-        "Stargaze",
-        "Comdex",
-        "Umee"
-      ]
-    },
-    "Polkadot": {
-      "count": 1000,
-      "networks": [
-        "Polkadot",
-        "Kusama",
-        "Acala",
-        "Astar",
-        "Moonbeam",
-        "Parallel",
-        "Bifrost",
-        "Centrifuge",
-        "HydraDX",
-        "Interlay",
-        "Phala"
-      ]
-    },
-    "Solana": {
-      "count": 1000
-    },
-    "NEAR": {
-      "count": 1000
-    },
-    "TRON": {
-      "count": 1000
-    },
-    "TON": {
-      "count": 1000
-    },
-    "Aptos": {
-      "count": 1000
-    },
-    "SUI": {
-      "count": 1000
-    },
-    "Cardano": {
-      "count": 1000
-    },
-    "Algorand": {
-      "count": 1000
-    },
-    "Hedera": {
-      "count": 1000
-    }
-  }
+  "EVM": 10,
+  "Bitcoin": 10,
+  "Cosmos": 10,
+  "Polkadot": 10,
+  "Solana": 10,
+  "NEAR": 10,
+  "TRON": 10,
+  "TON": 10,
+  "Aptos": 10,
+  "SUI": 10,
+  "Cardano": 10,
+  "Algorand": 10,
+  "Hedera": 10
 }
