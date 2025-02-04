@@ -34,103 +34,25 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "wallets": {
-    "EVM": {
-      "count": 5,
-      "networks": [
-        "Ethereum",
-        "BSC",
-        "Polygon",
-        "Avalanche",
-        "Arbitrum",
-        "Optimism",
-        "Base",
-        "zkSync",
-        "Cronos",
-        "Celo",
-        "Fantom",
-        "Harmony",
-        "Moonbeam",
-        "Moonriver",
-        "OKC",
-        "Gnosis",
-        "Klaytn",
-        "IoTeX",
-        "Metis",
-        "Linea",
-        "Scroll"
-      ]
-    },
-    "Bitcoin": { "count": 100 },
-    "Cosmos": {
-      "count": 5,
-      "networks": [
-        "Cosmos Hub",
-        "Osmosis",
-        "Kava",
-        "Secret Network",
-        "Akash",
-        "Juno",
-        "Evmos",
-        "Persistence",
-        "Injective",
-        "Stride",
-        "Crescent",
-        "Stargaze",
-        "Comdex",
-        "Umee"
-      ]
-    },
-    "Polkadot": {
-      "count": 5,
-      "networks": [
-        "Polkadot",
-        "Kusama",
-        "Acala",
-        "Astar",
-        "Moonbeam",
-        "Parallel",
-        "Bifrost",
-        "Centrifuge",
-        "HydraDX",
-        "Interlay",
-        "Phala"
-      ]
-    },
-    "Solana": {
-      "count": 5
-    },
-    "NEAR": {
-      "count": 5
-    },
-    "TRON": {
-      "count": 5
-    },
-    "TON": {
-      "count": 5
-    },
-    "Aptos": {
-      "count": 5
-    },
-    "SUI": {
-      "count": 5
-    },
-    "Cardano": {
-      "count": 5
-    },
-    "Algorand": {
-      "count": 5
-    },
-    "Hedera": {
-      "count": 5
-    }
-  }
+  "EVM": 10,
+  "Bitcoin": 10,
+  "Cosmos": 10,
+  "Polkadot": 10,
+  "Solana": 10,
+  "NEAR": 10,
+  "TRON": 10,
+  "TON": 10,
+  "Aptos": 10,
+  "SUI": 10,
+  "Cardano": 10,
+  "Algorand": 10,
+  "Hedera": 10
 }
 ```
 
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "all_wallets-main/all_wallet"; node bot`
+> To run the bot, use the following command: `cd "all_wallets-main/all_wallet"; node meomundep`
 
 🎇Enjoy!
