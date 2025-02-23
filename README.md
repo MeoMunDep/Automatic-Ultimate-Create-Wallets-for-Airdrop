@@ -30,7 +30,7 @@ To get started with the bot, follow these steps:
 
 ## 📁 Configuration Files
 
-### 1. `configs.json` 📜 - Adjust configuration - `Count` is how many wallets do you want to create.
+### 1. `configs.json` 📜 - Adjust configuration
 
 ```json
 {
