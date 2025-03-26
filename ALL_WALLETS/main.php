@@ -79,8 +79,8 @@
                 echo "I put a lot of effort into it, so please respect it and support me by starring the repo or donating!";
             ?>
         </p>
-        <a href="https://github.com/your-repo" class="btn-cyber btn-star" target="_blank">⭐ Star the Repo</a>
-        <a href="https://your-donation-link.com" class="btn-cyber btn-donate" target="_blank">💰 Donate</a>
+        <a href="https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop" class="btn-cyber btn-star" target="_blank">⭐ Star the Repo</a>
+        <a href="https://t.me/KeoAirDropFreeNe/312/27801" class="btn-cyber btn-donate" target="_blank">💰 Donate</a>
     </div>
 </body>
 </html>
