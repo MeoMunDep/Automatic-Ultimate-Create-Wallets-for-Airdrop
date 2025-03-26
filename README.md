@@ -26,7 +26,7 @@ To get started with the bot, follow these steps:
      or 
 
      ```bash
-   npm install colors xlsx bip39 hdkey bech32 blake2b tonweb algosdk ethers tronweb secp256k1 tiny-secp256k1 bitcoinjs-lib bip32 aptos ethereumjs-util ton cardano-wallet-js @hashgraph/sdk bs58check @stablelib/ed25519 ed25519-hd-key @polkadot/keyring @solana/web3.js @ton/crypto near-api-js @mysten/sui @polkadot/util-crypto ton-core ton-crypto --no-audit --prefer-offline --legacy-peer-deps --save-exact
+npm install @aptos-labs/ts-sdk @hashgraph/sdk @mysten/sui @polkadot/keyring @polkadot/util-crypto @solana/web3.js @stablelib/ed25519 @ton/crypto algosdk bech32 bip32 bip39 bitcoinjs-lib blake2b blakejs bs58check cardano-wallet-js colors ed25519-hd-key ethers ethereumjs-util hdkey near-api-js ton ton-core ton-crypto tonweb tiny-secp256k1 tronweb secp256k1 xlsx --no-audit --prefer-offline --legacy-peer-deps --save-exact --force 
      ```
 
 3. **Prepare Configuration Files:**
