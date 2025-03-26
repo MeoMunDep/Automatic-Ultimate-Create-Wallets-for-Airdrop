@@ -39,19 +39,20 @@ npm install @aptos-labs/ts-sdk @hashgraph/sdk @mysten/sui @polkadot/keyring @pol
 
 ```json
 {
-  "EVM": 10,
+  "Algorand": 10,
+  "Aptos": 10,
   "Bitcoin": 10,
+  "Cardano": 10,
   "Cosmos": 10,
+  "EVM": 10,
+  "Hedera": 10,
+  "MAVRYK": 10,
+  "NEAR": 10,
   "Polkadot": 10,
   "Solana": 10,
-  "NEAR": 10,
-  "TRON": 10,
-  "TON": 10,
-  "Aptos": 10,
   "SUI": 10,
-  "Cardano": 10,
-  "Algorand": 10,
-  "Hedera": 10
+  "TON": 10,
+  "TRON": 10
 }
 ```
 
