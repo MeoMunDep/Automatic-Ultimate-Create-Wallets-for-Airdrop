@@ -1,37 +1,78 @@
-📞 Contact
+---
+
+## 📞 Contact
 
 > [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 > If you encounter any issues or have questions, feel free to reach out:
 
-- Contact: [Link](t.me/MeoMunDep)
-- Group: [Link](t.me/KeoAirDropFreeNe)
-- Channel: [Link](t.me/KeoAirDropFreeNee)
+- Contact: [Link](t.me/MeoMunDep)  
+- Group: [Link](t.me/KeoAirDropFreeNe)  
+- Channel: [Link](t.me/KeoAirDropFreeNee)  
+
+---
 
 ## 🚀 Getting Started
 
 To get started with the bot, follow these steps:
 
-0. **Dowload NodeJS to run the bot**
+### 0. **Download NodeJS**
 
-> Remember to download Nodejs version: **22.11.0** and NPM version: **10.9.0**
+> Make sure to download Node.js version **22.11.0** and NPM version **10.9.0**.
 
--> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
+- **Download Link:** [NodeJS](https://t.me/KeoAirDropFreeNe/257/1462)  
 
-1. **Install Dependencies and Modules:**
-     ```bash
-     npm i
-     ```
-     
-     or 
+#### 💻 **Linux/MacOS**
 
-     ```bash
-     npm install @aptos-labs/ts-sdk @hashgraph/sdk @mysten/sui @polkadot/keyring @polkadot/util-crypto @solana/web3.js @stablelib/ed25519 @ton/crypto algosdk bech32 bip32 bip39 bitcoinjs-lib blake2b blakejs bs58check cardano-wallet-js colors ed25519-hd-key ethers ethereumjs-util hdkey near-api-js ton ton-core ton-crypto tonweb tiny-secp256k1 tronweb secp256k1 xlsx --no-audit --prefer-offline --legacy-peer-deps --save-exact --force 
-     ```
+To install NodeJS via `nvm`, run the following commands:
 
-3. **Prepare Configuration Files:**
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.4/install.sh | bash
+source ~/.bashrc   # or source ~/.zshrc if you use zsh
+nvm install 22.11.0
+nvm use 22.11.0
+npm install -g npm@10.9.0
+```
 
-   > You'll need to set up a few configuration files for the bot to work properly.
+#### 📱 **Termux (Android)**
+
+If you are running on Termux, check out the guides here:  
+[Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)  
+
+---
+
+### 1. **Clone the Project from GitHub:**
+
+To download the source code, use the following command:
+
+```bash
+git clone https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop\ALL_WALLETS.git
+cd Automatic-Ultimate-Create-Wallets-for-Airdrop\ALL_WALLETS/Automatic-Ultimate-Create-Wallets-for-Airdrop\ALL_WALLETS
+```
+
+---
+
+### 2. **Install Dependencies and Modules:**
+
+To install all required dependencies, run:
+
+```bash
+npm install
+```
+
+Or manually install each module:
+
+```bash
+npm install @aptos-labs/ts-sdk @hashgraph/sdk @mysten/sui @polkadot/keyring @polkadot/util-crypto @solana/web3.js @stablelib/ed25519 @ton/crypto algosdk bech32 bip32 bip39 bitcoinjs-lib blake2b blakejs bs58check cardano-wallet-js colors ed25519-hd-key ethers ethereumjs-util hdkey near-api-js ton ton-core ton-crypto tonweb tiny-secp256k1 tronweb secp256k1 xlsx --no-audit --prefer-offline --legacy-peer-deps --save-exact --force
+```
+
+---
+
+### 3. **Prepare Configuration Files:**
+
+Make sure to set up the required configuration files before running the bot.
+
+---
 
 ## 📁 Configuration Files
 
@@ -56,9 +97,20 @@ To get started with the bot, follow these steps:
 }
 ```
 
-💡 Usage:
+💡 **Usage:**
 
-> You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "all_wallets-main/all_wallet"; node meomundep`
+After extracting or cloning the project, navigate to the folder:
 
-🎇Enjoy!
+```bash
+cd Automatic-Ultimate-Create-Wallets-for-Airdrop\ALL_WALLETS/Automatic-Ultimate-Create-Wallets-for-Airdrop\ALL_WALLETS
+```
+
+To run the bot, use the following command:
+
+```bash
+node meomundep
+```
+
+---
+
+🎇 **Enjoy!**
