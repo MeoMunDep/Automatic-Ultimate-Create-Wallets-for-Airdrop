@@ -45,7 +45,7 @@ To download the source code, use the following command:
 
 ```bash
 git clone https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop.git
-cd "Automatic-Ultimate-Create-Wallets-for-Airdrop\ALL_WALLETS"
+cd "Automatic-Ultimate-Create-Wallets-for-Airdrop"
 ```
 
 ---
