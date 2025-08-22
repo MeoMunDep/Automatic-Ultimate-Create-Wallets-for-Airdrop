@@ -15,6 +15,7 @@
     "bitcoinjs-lib": "6.1.7",
     "blake2b": "2.1.4",
     "blakejs": "1.2.1",
+    "bs58": "6.0.0",
     "bs58check": "4.0.0",
     "cardano-wallet-js": "1.4.0",
     "meo-forkcy-colors": "1.0.9",
