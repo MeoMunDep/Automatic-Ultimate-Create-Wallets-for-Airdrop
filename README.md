@@ -95,7 +95,7 @@ Make sure to set up the required configuration files before running the bot.
 After extracting or cloning the project, navigate to the folder:
 
 ```bash
-cd "Automatic-Ultimate-Create-Wallets-for-Airdrop\ALL_WALLETS"
+cd "Automatic-Ultimate-Create-Wallets-for-Airdrop"
 ```
 
 To run the bot, use the following command:
