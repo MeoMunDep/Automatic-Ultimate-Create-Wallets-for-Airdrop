@@ -1,28 +1,25 @@
-## 📞 Contact
+# 📞 Contact
 
 > [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
-> If you encounter any issues or have questions, feel free to reach out:
+If you encounter any issues or have questions, feel free to reach out:
 
-- Contact: [Link](t.me/MeoMunDep)  
-- Group: [Link](t.me/KeoAirDropFreeNe)  
-- Channel: [Link](t.me/KeoAirDropFreeNee)  
+* Contact: [Link](t.me/MeoMunDep)
+* Group: [Link](t.me/KeoAirDropFreeNe)
+* Channel: [Link](t.me/KeoAirDropFreeNee)
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
-To get started with the bot, follow these steps:
+<details>
+<summary><b>0. Download NodeJS</b></summary>
 
-### 0. **Download NodeJS**
+Make sure to download Node.js version **22.11.0** and NPM version **10.9.0**.
 
-> Make sure to download Node.js version **22.11.0** and NPM version **10.9.0**.
+* **Download Link:** [NodeJS](https://t.me/KeoAirDropFreeNe/257/1462)
 
-- **Download Link:** [NodeJS](https://t.me/KeoAirDropFreeNe/257/1462)  
-
-#### 💻 **Linux/MacOS**
-
-To install NodeJS via `nvm`, run the following commands:
+#### 💻 Linux/MacOS
 
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.4/install.sh | bash
@@ -32,43 +29,44 @@ nvm use 22.11.0
 npm install -g npm@10.9.0
 ```
 
-#### 📱 **Termux (Android)**
+#### 📱 Termux (Android)
 
-If you are running on Termux, check out the guides here:  
-[Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)  
+If you are running on Termux, check out the guides here:
+[Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
+
+</details>
 
 ---
 
-### 1. **Clone the Project from GitHub:**
-
-To download the source code, use the following command:
+<details>
+<summary><b>1. Clone the Project from GitHub</b></summary>
 
 ```bash
 git clone https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop.git
 cd "Automatic-Ultimate-Create-Wallets-for-Airdrop"
 ```
 
+</details>
+
 ---
 
-### 2. **Install Dependencies and Modules:**
-
-To install all required dependencies, run:
+<details>
+<summary><b>2. Install Dependencies and Modules</b></summary>
 
 ```bash
 npm install
 ```
 
+</details>
+
 ---
 
-### 3. **Prepare Configuration Files:**
+<details>
+<summary><b>3. Prepare Configuration Files</b></summary>
 
 Make sure to set up the required configuration files before running the bot.
 
----
-
-## 📁 Configuration Files
-
-### 1. `configs.json` 📜 - Adjust configuration
+### 📁 Example: `configs.json`
 
 ```json
 {
@@ -92,18 +90,14 @@ Make sure to set up the required configuration files before running the bot.
 
 💡 **Usage:**
 
-After extracting or cloning the project, navigate to the folder:
-
 ```bash
 cd "Automatic-Ultimate-Create-Wallets-for-Airdrop"
-```
-
-To run the bot, use the following command:
-
-```bash
 node meomundep
 ```
+
+</details>
 
 ---
 
 🎇 **Enjoy!**
+
