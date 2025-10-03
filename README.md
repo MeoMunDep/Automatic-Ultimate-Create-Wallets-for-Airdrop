@@ -91,7 +91,7 @@ Make sure to set up the required configuration files before running the bot.
 💡 **Usage:**
 
 ```bash
-cd "Automatic-Ultimate-Create-Wallets-for-Airdrop"
+cd "path/to/Automatic-Ultimate-Create-Wallets-for-Airdrop"
 node meomundep
 ```
 
