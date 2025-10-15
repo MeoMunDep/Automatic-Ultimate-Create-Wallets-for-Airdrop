@@ -79,7 +79,7 @@ Make sure to set up the required configuration files before running the bot.
   "Hedera": 10,
   "MAVRYK": 10,
   "NEAR": 10,
-  "Pi Squared": 10,
+  "Pisquared": 10,
   "Polkadot": 10,
   "Solana": 10,
   "SUI": 10,
